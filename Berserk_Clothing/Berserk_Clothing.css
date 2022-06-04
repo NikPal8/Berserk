@@ -1,0 +1,50 @@
+img {
+    background-color: white;
+    background-size: auto;
+    height:400px;
+    width:300px;
+    padding: 20px;
+    display: block;
+    border: 5px solid black;
+}
+
+ul {
+    /* width: 300px; */
+    /* display: flex; */
+    flex-wrap: wrap;
+    display: inline;
+}
+
+li {
+    background-color: white;
+    height: 500px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    float: left;
+}
+
+.clothes {
+    /* background-color: blueviolet; */
+}
+
+div {
+    margin-top: 10px;
+    display: block;
+    /* background-color: red; */
+    /* height: 200px; */
+    border: 5px solid black;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+}
+
+.cart {
+    display: inline-block;
+    background-color: rgb(255, 208, 0);
+    background-position: right;
+    border: 5px ;
+    padding-right: 100;
+}
