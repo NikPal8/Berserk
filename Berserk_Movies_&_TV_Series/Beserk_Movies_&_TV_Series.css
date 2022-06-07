@@ -1,0 +1,28 @@
+
+img {
+    background-color: rgb(255, 255, 255);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    display: block;
+    margin: 0 auto;
+    height: 400px;
+    width:300px;
+}
+
+div {
+    display: inline-block;
+    background-color: rgb(50, 50, 50);
+    height:450px;
+    width:350px;
+}
+
+body {
+    background-color: rgb(170, 11, 24);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 1600px;
+    width:1200px;
+    margin: 0 auto;
+}
